@@ -1,4 +1,5 @@
 MVI Posts App - Ejemplo de Arquitectura MVI en Android
+
 Este proyecto es una aplicación de ejemplo para Android, desarrollada en Kotlin, que demuestra una implementación limpia y didáctica del patrón de arquitectura MVI (Model-View-Intent). La aplicación obtiene una lista de "posts" desde la API pública JSONPlaceholder y la muestra en un RecyclerView.
 
 El objetivo principal es servir como una guía de aprendizaje paso a paso sobre cómo estructurar una aplicación moderna, escalable y fácil de mantener utilizando las mejores prácticas actuales.
